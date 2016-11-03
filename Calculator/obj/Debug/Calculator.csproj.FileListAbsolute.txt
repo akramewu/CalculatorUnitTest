@@ -1,0 +1,5 @@
+D:\Backup\Development\2016Projects\UnitTestingProject\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Backup\Development\2016Projects\UnitTestingProject\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Backup\Development\2016Projects\UnitTestingProject\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Backup\Development\2016Projects\UnitTestingProject\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Backup\Development\2016Projects\UnitTestingProject\Calculator\Calculator\obj\Debug\Calculator.pdb
