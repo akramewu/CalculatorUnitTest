@@ -20,5 +20,10 @@ namespace Calculator
         {
             return a - b;
         }
+
+        public string String(string firstName,string lastName)
+        {
+            return firstName + " " + lastName;
+        }
     }
 }

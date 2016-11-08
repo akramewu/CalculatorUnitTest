@@ -28,5 +28,15 @@ namespace Calculator.Tests
 
             Assert.That(result, Is.EqualTo(2));
         }
+
+        [Test]
+        public void ShouldCheckStringValue()
+        {
+            var sut = new SimpleCalculator();
+            
+            var fullName = sut.String("Akramul","Islam");
+
+            Assert.That(fullName, Is.EqualTo("Akramul Islam"));
+        }
     }
 }
