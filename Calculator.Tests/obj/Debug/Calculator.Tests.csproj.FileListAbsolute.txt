@@ -7,3 +7,12 @@ D:\Backup\Development\2016Projects\UnitTestingProject\Calculator\Calculator.Test
 D:\Backup\Development\2016Projects\UnitTestingProject\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
 D:\Backup\Development\2016Projects\UnitTestingProject\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
 D:\Backup\Development\2016Projects\UnitTestingProject\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
+D:\Backup\Development\2016Projects\UnitTestingProject\GitCalulator\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+D:\Backup\Development\2016Projects\UnitTestingProject\GitCalulator\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+D:\Backup\Development\2016Projects\UnitTestingProject\GitCalulator\Calculator.Tests\bin\Debug\Calculator.exe
+D:\Backup\Development\2016Projects\UnitTestingProject\GitCalulator\Calculator.Tests\bin\Debug\nunit.framework.dll
+D:\Backup\Development\2016Projects\UnitTestingProject\GitCalulator\Calculator.Tests\bin\Debug\Calculator.pdb
+D:\Backup\Development\2016Projects\UnitTestingProject\GitCalulator\Calculator.Tests\bin\Debug\nunit.framework.xml
+D:\Backup\Development\2016Projects\UnitTestingProject\GitCalulator\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+D:\Backup\Development\2016Projects\UnitTestingProject\GitCalulator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+D:\Backup\Development\2016Projects\UnitTestingProject\GitCalulator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb

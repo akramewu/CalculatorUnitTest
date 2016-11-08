@@ -18,5 +18,15 @@ namespace Calculator.Tests
 
             Assert.That(result,Is.EqualTo(8));
         }
+
+        [Test]
+        public void ShouldSubtractTwoNumbers()
+        {
+            var sut = new SimpleCalculator();
+
+            var result = sut.Subtract(5, 3);
+
+            Assert.That(result, Is.EqualTo(2));
+        }
     }
 }
